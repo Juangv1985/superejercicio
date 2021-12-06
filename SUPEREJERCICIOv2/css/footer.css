@@ -1,0 +1,29 @@
+#footer {
+	background-color:#333;
+	padding:10px;
+	justify-content:center;
+	display:flex;
+	width:100%;
+}
+
+#footer .footerelement {
+	width:30%;
+	float:both;
+	margin-top:10px;
+	text-align:center;
+	
+}
+
+.footerelement img {
+	width:15%;
+
+}
+
+.footerelement a {
+	color:white;
+	font-size: 1em;
+}
+
+.footerelement ul li {
+	list-style:none;
+}

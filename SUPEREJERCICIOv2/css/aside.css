@@ -1,0 +1,48 @@
+#aside {
+	background-color:#333;
+	padding:10px;
+	height: 898px;
+	width:37%;
+	float: right;
+	text-align:center;
+
+}
+
+.foto2 {
+	padding:0px;
+	margin:22px;
+	border:0px;
+	width:75%;
+	margin-bottom:1%;
+}
+
+.p2 {
+	color:#808080;
+	text-align:center;
+	padding-left:5%;
+	padding-right:5%;
+}
+
+.foto3 {
+	padding:0px;
+	margin:22px;
+	border:0px;
+	width:75%;
+	margin-top:10%;
+}
+
+.p3	{
+	color:#808080;
+	margin:0px;
+	padding-left:5%;
+	padding-right:5%;
+}
+
+.imgvolcanes {
+	margin-top:0px;
+	width:65%;	
+}
+
+.titulovolcanes {
+	color:red;
+}

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>INICIO</title>
+			<link href="css/header.css" rel="stylesheet" type="text/css"/>
+			<link href="css/main.css" rel="stylesheet" type="text/css"/>
+			<link href="css/aside.css" rel="stylesheet" type="text/css"/>
+			<link href="css/footer.css" rel="stylesheet" type="text/css"/>
+	</head>
+	<body>
+		<div id="header">
+			<img class="logo" src="img/logo.jpg" alt="logoislabonita"/>
+			<h2 class="titulo"> Noticias del volcán de cumbre vieja</h2>
+			<a class="a"href="pagina1.html">INICIO|</a>
+			<a class="a"href="pagina2.html">Servicios | </a>
+			<a class="a"href="pagina3.html">Sobre nosotros |</a>
+			<a class="a"href="pagina4.html">Contacto</a>
+		</div>
+		<div id="main">
+			<h1 class="titulo"> Un volcán entra en erupción en la isla española de La Palma y fuerza 
+				 masivas evacuaciones.</h1>
+			<img class="foto1" src="img/iniciovolcan.jpg" alt="iniciovolcan"/>
+			<p class="p1">El volcán Cumbre Vieja de la isla española de La Palma, en el archipiélago
+			canario, ha estado bajo una estrecha vigilancia durante días debido a una intensa actividad
+			sísmica que finalmente entró en erupción este domingo 19 de septiembre por primera vez en 
+			50 años.
+			Grandes columnas de humo, cenizas, así como chorros y flujos de lava emergen del
+			volcán, según informó un corresponsal de la agencia AFP desplegado en el lugar."La erupción
+			comenzó en la zona de Cabeza de Vaca de El Paso", publicó el gobierno local de la isla en
+			su cuenta de Twitter. Las autoridades prosiguieron con la evacuación de más de 1.000 personas
+			en las zonas habitadas más cercanas al volcán.
+			La evacuación fue obligatoria en unos diez municipios en alerta máxima y se han establecido
+			varios refugios temporales. "Se pide a la población que extreme las precauciones y se mantenga
+			alejada de la zona de erupción para evitar cualquier riesgo innecesario", dijo el Gobierno local.
+			El presidente regional de Canarias, Ángel Víctor Torres, aseguró que no se ha identificado 
+			ninguna víctima y ​​destacó la "suerte" de que esta erupción se produjera "en una zona despoblada"
+			de esta isla de más de 80.000 habitantes, una de las más importantes del archipiélago ubicado 
+			frente al noroeste de África.Según indicaron las autoridades, los flujos de lava del volcán,
+			ubicado en el centro de la isla, deben desplazarse hacia el suroeste hacia zonas habitadas
+			y boscosas, antes de llegar a la costa.</p>	
+		</div>
+		<div id="aside">
+			<img class="foto2" src="img/lavamar.jpg" alt="lava-llega-al-mar"/>
+			<p class="p2">La lava del volcán de La Palma llegó al mar en la costa del municipio de 
+			Tazacorte en torno a las once de la noche del martes (hora canaria, una más en la España 
+			peninsular), alrededor de la zona conocida como la playa de los Guirres (también llamada
+			Playa Nueva), donde se ha precipitado desde un acantilado de cerca de 100 metros de altura.
+			El contacto de la lava con el mar ha creado emanación de humo, que se desplaza al interior
+			de la isla o sale al mar en función de cómo sople el viento.</p>
+			
+			<img class="foto3"src="img/casavolcan.jpg" alt="fisuraencasa"/>
+			<p class="p3">El nuevo punto de emisión lávico del volcán de La Palma, cuya colada sepultó
+			este jueves el cementerio de Las Manchas, surgió ayer sorprendentemente bajo una vivienda 
+			situada en la zona conocida como Corazoncillo, según recoge el diario palmero El Time.</p>	
+		</div>
+		<div id="footer">
+			<div class="footerelement" >
+				<ul>
+					<li><a class="a"href="pagina1.html">INICIO|</a></li>
+					<li><a class="a"href="pagina2.html">Servicios |</a></li>
+					<li><a class="a"href="pagina3.html">Sobre nosotros |</a></li>
+					<li><a class="a"href="pagina4.html">Contacto</a></li>
+				</ul>
+			</div>
+			<div class="footerelement">
+				<a href="https://www.instagram.com/tvlapalmacom/" rel="next" target="_blank">
+				<img class="img" src="img/instagram.png"/>
+				<a href="https://www.facebook.com/TVlapalma/" rel="next" target="_blank">
+				<img class="img" src="img/facebook.png"/>
+				<a href="https://www.youtube.com/channel/UCY8cRUQNNGbEczTAA2NXhYw" rel="next" target="_blank"></a>
+				<img class="img" src="img/youtube.png"/></img>
+			</div>
+			<div class="footerelement">
+				<ul>
+					<li><a href="mailto:juangv1985@gmail.com?subject=ASUNTO">e-mail</a></li>
+					<li><a href="tel:653852450">Llamar móvil</a></li>
+					<li><a href="tel:951138930">Llamar fijo</a></li>
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>
+
+
